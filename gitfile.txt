@@ -6,3 +6,4 @@ The expectation is that at the end of this lecture
 4. Push our code from thelocal repo to the remote repositor
 We are adding a new file to this file
 Git is an intresting course.
+Showing the head changes
