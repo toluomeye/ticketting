@@ -3,4 +3,5 @@ The expectation is that at the end of this lecture
 1. we would have refreshed our memory
 2. Learnt about git branches
 3.Open a repository
-4. Push our code from thelocal repo to the remote repository
+4. Push our code from thelocal repo to the remote repositor
+We are adding a new file to this file.
