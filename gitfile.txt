@@ -8,3 +8,4 @@ We are adding a new file to this file
 Git is an intresting course.
 Showing the head changes
 Adding a new line of text from bugfix master
+Its a bright and sunny day
