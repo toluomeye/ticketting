@@ -9,3 +9,4 @@ Git is an intresting course.
 Showing the head changes
 Adding a new line of text from bugfix master
 Its a bright and sunny day
+We are adding this new line from the GUI
